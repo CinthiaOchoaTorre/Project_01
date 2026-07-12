@@ -105,3 +105,9 @@ This project gave us a better understanding of how PHP can be utilized to build 
 # Authors
 
 MaKayla Davis & Cinthia Mariana Ochoa Torre
+
+---
+
+### Submission Links
+- **Video Walkthrough:** [Project 1 Video Walkthrough](https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-globalnav-goto)
+- **GitHub Repository:** [Repo URL Link](https://github.com/CinthiaOchoaTorre/Project_01)
