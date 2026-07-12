@@ -72,7 +72,7 @@ include __DIR__ . '/includes/header.php';
         <section class="cta" aria-labelledby="cta-heading">
             <img
                 class="cta__media"
-                src="https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=800&q=70"
+                src="images/dishes.png"
                 alt="An assortment of colorful dishes spread across a table"
                 loading="lazy"
             >

@@ -15,6 +15,12 @@ Desktop (1200px+)
 ☑ Images load correctly
 ☑ Footer displays correctly
 
+Screenshots (Desktop):
+
+![Home page on desktop](qa-evidence/home_desktop.png)
+![Explore page on desktop](qa-evidence/explore_desktop.png)
+![Quiz page on desktop](qa-evidence/quiz_desktop.png)
+
 Tablet (992px)
 
 ☑ Grid adjusts to two columns
@@ -22,6 +28,12 @@ Tablet (992px)
 ☑ Images resize correctly
 ☑ Text remains readable
 ☑ Buttons remain clickable
+
+Screenshots (Tablet):
+
+![Home page on tablet](qa-evidence/home_tablet.png)
+![Explore page on tablet](qa-evidence/explore_tablet.png)
+![Quiz page on tablet](qa-evidence/quiz_tablet.png)
 
 Mobile (576px)
 
@@ -32,6 +44,12 @@ Mobile (576px)
 ☑ Text remains readable
 ☑ Buttons are easy to tap
 ☑ No horizontal scrolling
+
+Screenshots (Mobile):
+
+![Home page on mobile](qa-evidence/home_phone.png)
+![Explore page on mobile](qa-evidence/explore_phone.png)
+![Quiz page on mobile](qa-evidence/quiz_phone.png)
 
 Accessibility
 
