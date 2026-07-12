@@ -109,5 +109,5 @@ MaKayla Davis & Cinthia Mariana Ochoa Torre
 ---
 
 ### Submission Links
-- **Video Walkthrough:** [Project 1 Video Walkthrough](https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-globalnav-goto)
+- **Video Walkthrough:** [Project 1 Video Walkthrough](https://drive.google.com/file/d/1Su6QfozD6lzAZubKHsfYtZgbnaBt60Y4/view?usp=sharing)
 - **GitHub Repository:** [Repo URL Link](https://github.com/CinthiaOchoaTorre/Project_01)
